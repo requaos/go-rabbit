@@ -1,4 +1,4 @@
-package worker
+package rabbit
 
 import (
 	"time"
